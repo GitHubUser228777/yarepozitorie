@@ -1,1 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: white;
+}
 
+h1, h2{
+    text-align: center;
+}
+
+ul{
+
+    list-style: url("https://www.pngwing.com/ru/search?q=%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9+%D0%B3%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B0");
+}
+li font{
+    
+}
+img{
+    size: 10px;
+}
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: black;
+}
+
+.w{
+    background-color: black;   
+    width: 100%;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 5px;
+    color: white;
+}
+
+.one {
+    margin-left: 10px;
+   width: 40%;
+} 
+
+.two {
+    width: 100%%;
+    text-align: center;
+}
